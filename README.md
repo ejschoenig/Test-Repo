@@ -1,2 +1,2 @@
 # Test-Repo
-testing git/github. Adding in this extra sentence to push back. now testing pulling capabilities. tried cloning through the terminal. moved local repo to new github projects folder. Does the new token work?   
+testing git/github. Adding in this extra sentence to push back. now testing pulling capabilities. tried cloning through the terminal. moved local repo to new github projects folder. Does the new token work? does on the work rig!   
